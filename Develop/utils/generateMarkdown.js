@@ -34,9 +34,10 @@ function generateMarkdown(data) {
   ${ data.contributing}
   ## Tests
   ${ data.tests }
-  ## Questions
+  ## Questions? Please contact me:
   * [My GitHub Profile](https://github.com/${ data.github })
-  * Email me at: [${ data.email }](mailto:${ data.email }) with questions about this project
+  * [My Github Project Repository](https://jcgom3.github.io/${ data.githubRepo })
+  * Email me at: [${ data.email }](mailto:${ data.email }) with questions or make an issue about this project.
 `;
 };
 

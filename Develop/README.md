@@ -1,7 +1,7 @@
-# Readme-Generator
+# Readme-generator
   ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
   ## Description
-  Create Readme using input prompts from command line via Node.js
+  lorem ipsum
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,20 +9,17 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  ## Demo Video
-  * [Demo](https://drive.google.com/file/d/16GGxFxCL00u259lOJvZkp_T6WYwLmuLa/view)
   ## Installation
-  Using inquirer and Node.js
+  install node js, open on vs code, open terminal and answer questions.
   ## Usage
-  Install/fork open command line on VS Code.
+  potatoes
   ## License
   This project uses ![license badge](https://img.shields.io/badge/license-MIT-brightgreen). You can get more information on licenses [here](https://choosealicense.com/).
   ## Contributing
-  as how he/she wishes.
+  just add some code if needed.
   ## Tests
-  Open folder on VS code. Follow prompts on command line, make sure a new README.md is generated on the Develop folder.
+  make sure once all questions were answered that a new readme is generated on the develop folder.
   ## Questions? Please contact me:
-  * [My GitHub Profile](https://github.com/jcgom3)
+  * [My GitHub Profile](https://github.com/Jcgom3)
   * [My Github Project Repository](https://jcgom3.github.io/Challenge-9-Node.js)
   * Email me at: [Jcgom3@gmail.com](mailto:Jcgom3@gmail.com) with questions or make an issue about this project.
- 
