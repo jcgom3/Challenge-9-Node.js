@@ -1,7 +1,7 @@
 # Readme-generator
   ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
   ## Description
-  N/a
+  N/A
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,9 +10,9 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  N/a
+  N/A
   ## Usage
-  create professional read me
+  create professional Readme
   ## License
   This project uses ![license badge](https://img.shields.io/badge/license-MIT-brightgreen). You can get more information on licenses [here](https://choosealicense.com/).
   ## Contributing
